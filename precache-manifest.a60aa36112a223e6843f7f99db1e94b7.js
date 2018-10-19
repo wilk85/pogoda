@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/pogoda/static/js/runtime~main.efc503ef.js"
   },
   {
-    "revision": "8e23eca3ac2f496c8956",
-    "url": "/pogoda/static/js/main.8e23eca3.chunk.js"
+    "revision": "6d839ccd6058ab81d48b",
+    "url": "/pogoda/static/js/main.6d839ccd.chunk.js"
   },
   {
     "revision": "8f71889b08b0ed118029",
     "url": "/pogoda/static/js/1.8f71889b.chunk.js"
   },
   {
-    "revision": "8e23eca3ac2f496c8956",
+    "revision": "6d839ccd6058ab81d48b",
     "url": "/pogoda/static/css/main.cf06d90a.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/pogoda/static/css/1.9f0020ba.chunk.css"
   },
   {
-    "revision": "99539ac79d2d00acd3df547d1291dd14",
+    "revision": "6d6f66f999883e8454e76702ac36cd65",
     "url": "/pogoda/index.html"
   }
 ];
